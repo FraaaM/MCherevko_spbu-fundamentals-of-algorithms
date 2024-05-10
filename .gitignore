@@ -1,3 +1,9 @@
+# Mac stuff
+.DS_Store
+
+# Archives
+*.gz
+
 # Latex
 *.aux
 *.fdb_latexmk
